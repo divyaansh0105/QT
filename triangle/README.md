@@ -45,4 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - The OpenGL and Qt communities for providing excellent documentation and resources.
-- [OpenAI](https://openai.com/) for providing assistance and resources.
